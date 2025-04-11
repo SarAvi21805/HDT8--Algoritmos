@@ -1,0 +1,11 @@
+Juan Perez, fractura de pierna, C, 2023-10-01 10:30
+Maria Ramirez, apendicitis, A, 2023-10-01 11:00
+Lorenzo Toledo, chikunguya, E, 2023-10-01 11:15
+Carmen Sarmientos, dolores de parto, B, 2023-10-01 11:30
+Ana Gomez, infarto, A, 2023-10-01 12:00
+Pedro Martinez, fiebre alta, C, 2023-10-01 12:15
+Lucia Fernandez, esguince de tobillo, D, 2023-10-01 12:30
+Carlos Ruiz, dolor de cabeza, D, 2023-10-01 12:45
+Sofia Torres, alergia severa, B, 2023-10-01 13:00
+Diego Morales, corte profundo, C, 2023-10-01 13:15
+Lola,Gastritis,C,2025-04-10T20:57:23.148559900
